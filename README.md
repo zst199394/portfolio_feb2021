@@ -1,5 +1,5 @@
 # Project Overview
-In this portfillio page https://zst199394.github.io/portfolio_feb2021/, I am using the Bootstrap CSS Framework to create my mobile responsive portfolio.In this portfolio, it will contain the contact, portfolio and also about me,total 3 pages. 
+In this portfillio page : https://zst199394.github.io/portfolio_feb2021/, I am using the Bootstrap CSS Framework to create my mobile responsive portfolio.In this portfolio, it will contain the contact, portfolio and also about me,total 3 pages. 
 
 ## Languages and Libraries Used
 * HTML

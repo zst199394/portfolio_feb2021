@@ -6,9 +6,9 @@ In this project https://zst199394.github.io/My_Responsive_Portfolio_Web/, I am u
 * CSS
 * Bootstrap
 * JavaScript
-* Google
-* w3school
 * jQUERY
+* w3school
+* Google
 
 ![my portfolio web-about me page](./assets/full_3.png)
 ![my portfolio web-contact page](./assets/full_2.png)
